@@ -1,0 +1,35 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px 0;
+  padding: 20px;
+}
+
+textarea {
+  min-width: 200px;
+  min-height: 100px;
+  padding: 10px; 
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.output-field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+  min-height: 100px;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+
+.li {
+  list-style: none;
+}
+
+.barcode-count-field {
+  margin: 0 0 -10px 0;
+}
