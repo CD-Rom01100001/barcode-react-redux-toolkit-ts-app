@@ -1,0 +1,46 @@
+{
+  "hash": "7e53f2f2",
+  "configHash": "63035699",
+  "lockfileHash": "2c07d557",
+  "browserHash": "d0b341e0",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "d92e230b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2a5272ca",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "ef8f62a1",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "db4d9a7c",
+      "needsInterop": false
+    },
+    "react-jsbarcode": {
+      "src": "../../node_modules/react-jsbarcode/lib/index.mjs",
+      "file": "react-jsbarcode.js",
+      "fileHash": "bc72280b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-Q3OV7L57": {
+      "file": "chunk-Q3OV7L57.js"
+    },
+    "chunk-EQCVQC35": {
+      "file": "chunk-EQCVQC35.js"
+    }
+  }
+}
